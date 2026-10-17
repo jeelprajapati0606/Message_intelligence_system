@@ -181,9 +181,7 @@ Message_intelligence_system/
 
 ---
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZubTQ1cHdlazNvbG1oZWU0NndxbG84c2d4dWZjOHZ3c2g5b3d3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="55%" alt="Animated technology footer">
 
 **Thank you for visiting.** If this project was useful, please consider starring the repository.
 

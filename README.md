@@ -14,6 +14,8 @@
 
 
 
+</div>
+
 ---
 
 ## Overview
@@ -154,7 +156,7 @@ For spam filtering, a false positive (blocking a legitimate message) and a false
 
 ## Project video
 
-[![Watch the project explanation](https://img.shields.io/badge/▶_Watch_the_Project_Explanation-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID)
+[![Explanation Video](https://img.shields.io/badge/▶_Watch-Explanation-DC2626?style=for-the-badge)](#-project-video)
 
 Replace `REPLACE_WITH_YOUR_VIDEO_ID` with the real YouTube video ID before publishing. Until then, this button is a placeholder.
 
@@ -180,6 +182,8 @@ Message_intelligence_system/
 **Jeel Prajapati** · [GitHub profile](https://github.com/jeelprajapati0606)
 
 ---
+
+<div align="center">
 
 
 

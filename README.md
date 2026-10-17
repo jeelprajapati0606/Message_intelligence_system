@@ -12,9 +12,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-7C3AED)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZubTQ1cHdlazNvbG1oZWU0NndxbG84c2d4dWZjOHZ3c2g5b3d3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="75%" alt="Animated data and machine learning banner">
 
-</div>
 
 ---
 
